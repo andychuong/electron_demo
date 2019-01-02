@@ -1,0 +1,44 @@
+body {
+  font-family: sans-serif;
+  background-color: #555;
+  padding: 0;
+  margin: 0;
+}
+
+#container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+header {
+  text-align: center;
+  color:black;
+}
+
+#defaultCanvas0 {
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+footer {
+  text-align: center;
+}
+
+#score {
+  padding-left: 20px
+}
+
+#theForm{
+  display: none;
+  text-align:center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#secretpass{
+  display:inline;
+}
